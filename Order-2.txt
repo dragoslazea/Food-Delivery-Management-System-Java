@@ -1,0 +1,7 @@
+Order no.2 from: Wed Jun 02 03:56:47 EEST 2021
+Client ID: 2
+1. Choucroute with Caramelized Pears : 27
+2. Wild Rice Dressing with Apples and Chestnuts : 43
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 70

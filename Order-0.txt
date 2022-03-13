@@ -1,0 +1,7 @@
+Order no.0 from: Wed Jun 02 01:23:53 EEST 2021
+Client ID: 2
+1. Lobster with Roasted Garlic-Potato Salad and Coleslaw : 30
+2. Napa Cabbage Salad with Buttermilk Dressing : 21
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 51

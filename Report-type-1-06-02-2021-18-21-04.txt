@@ -1,0 +1,6 @@
+Orders between 9 and 14, regardless the date:
+
+Order ID: 6 Client ID: 3 Date And Time: Wed Jun 02 13:19:02 EEST 2021
+Order ID: 4 Client ID: 3 Date And Time: Wed Jun 02 13:18:26 EEST 2021
+Order ID: 7 Client ID: 2 Date And Time: Wed Jun 02 13:23:17 EEST 2021
+Order ID: 5 Client ID: 3 Date And Time: Wed Jun 02 13:18:50 EEST 2021

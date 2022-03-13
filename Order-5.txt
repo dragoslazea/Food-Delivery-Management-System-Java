@@ -1,0 +1,9 @@
+Order no.5 from: Wed Jun 02 13:18:50 EEST 2021
+Client ID: 3
+1. Butter-Sugar Crepes : 25
+2. Grog : 28
+3. Root Vegetable Tarte Tatin : 16
+4. Napa Cabbage Salad with Buttermilk Dressing : 21
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Total price: 90
